@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0d1113">
+  <meta name="description" content="ZMTQの世界を巡る静かな謎解き展示室">
+  <title>ZMTQ | Myth Tree Quest</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="ZMTQ ホーム"><span class="brand-mark">◇</span><span>ZMTQ</span></a>
+    <nav aria-label="メインメニュー">
+      <button class="text-button" data-modal="howto">遊び方</button>
+      <button class="text-button" data-modal="updates">更新情報</button>
+      <button class="text-button" data-modal="achievements">実績</button>
+    </nav>
+  </header>
+  <main id="app" tabindex="-1"><p class="loading">展示室を準備しています...</p></main>
+  <aside id="updateNotice" class="update-notice" hidden><span>更新データがあります。</span><button id="reloadButton">再読み込み</button></aside>
+  <dialog id="modal" class="modal"><button class="modal-close" aria-label="閉じる">×</button><div id="modalContent"></div></dialog>
+  <footer><small>ZETA MYTH TREE QUEST · Prototype</small></footer>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

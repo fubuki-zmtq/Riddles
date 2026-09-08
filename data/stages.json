@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vanessa",
+    "name": "王都バネッサ",
+    "description": "石造りの回廊に残された、言葉と順序の謎。",
+    "accent": "#b99a67",
+    "normalData": "data/vanessa_normal.json",
+    "hardData": "data/vanessa_hard.json"
+  },
+  {
+    "id": "tirnanog",
+    "name": "妖精国ティルナノーグ",
+    "description": "森と光を巡る、静かな観察の謎。",
+    "accent": "#6f9b88",
+    "normalData": "data/tirnanog_normal.json",
+    "hardData": "data/tirnanog_hard.json"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "stageId": "vanessa",
+  "mode": "hard",
+  "inputGuide": "ひらがなで入力してください。空白・全角半角は正規化されます。",
+  "questions": [
+    {
+      "id": "vanessa_hard_01",
+      "category": "word",
+      "type": "text",
+      "question": "【HARD仮問題】 「きつね」の文字を並べ替え、夜空に見えるものを答えてください。（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "3文字です。",
+      "hint2": "「つ」から始まります。",
+      "answerHash": "a6b62ae03460b4fed56e04029bb980472dfd1ee283472ddb73e502e4e93c01bc"
+    },
+    {
+      "id": "vanessa_hard_02",
+      "category": "word",
+      "type": "text",
+      "question": "【HARD仮問題】 夜空で小さく光るもの。ひらがな2文字で答えてください。（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "空を見上げます。",
+      "hint2": "「ほ」から始まります。",
+      "answerHash": "740c087eef0f0eedd0446d52c7ee0cead2f7c840dc4f522184bfaed9daedc3d9"
+    },
+    {
+      "id": "vanessa_hard_03",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 木がたくさん集まっている場所は？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "自然の場所です。",
+      "hint2": "ひらがな2文字です。",
+      "answerHash": "4aff9975359df4ca0f8ebbba85d5ca4cbd85453826cb9e00359e97eda8168224"
+    },
+    {
+      "id": "vanessa_hard_04",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 姿は見えないが、木の葉を揺らすものは？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "空気の動きです。",
+      "hint2": "ひらがな2文字です。",
+      "answerHash": "334bdc29cac13392f8612ff480792dada4c2453a686ada4a6c93a90807b7b9f4"
+    },
+    {
+      "id": "vanessa_hard_05",
+      "category": "word",
+      "type": "text",
+      "question": "【HARD仮問題】 雨、川、海に共通するものは？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "透明な液体です。",
+      "hint2": "ひらがな2文字です。",
+      "answerHash": "986430368256f18defd9d825e5e173ce8b5f915a75a1f81e61cffe009a44e633"
+    },
+    {
+      "id": "vanessa_hard_06",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 暗闇を照らすもの。ひらがな3文字で答えてください。（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "太陽や灯りから届きます。",
+      "hint2": "「ひ」から始まります。",
+      "answerHash": "f8797412334f868e6b153ad2c3c8336f9d8d373334bd0628aa9e88d021b8c136"
+    },
+    {
+      "id": "vanessa_hard_07",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 針が進み、時刻を知らせるものは？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "壁に掛けることもあります。",
+      "hint2": "ひらがな3文字です。",
+      "answerHash": "e50d7153389eec5d702c7804e36df2d90bb92ce7d98765495b0ece72a7f0650a"
+    },
+    {
+      "id": "vanessa_hard_08",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 閉じた錠前を開けるために使うものは？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "小さな金属製の道具です。",
+      "hint2": "ひらがな2文字です。",
+      "answerHash": "457693d155562666afbfde5edc34ce86144ca84a56a1c09573c7069c6a572e7e"
+    },
+    {
+      "id": "vanessa_hard_09",
+      "category": "riddle",
+      "type": "text",
+      "question": "【HARD仮問題】 部屋と部屋の境にあり、開けて通るものは？（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "取っ手が付いています。",
+      "hint2": "ひらがな3文字です。",
+      "answerHash": "d4aef6cef4a0f931d137608f2c891699f969d11092f1d812ce50d491e9a571a3"
+    },
+    {
+      "id": "vanessa_hard_10",
+      "category": "word",
+      "type": "text",
+      "question": "【HARD仮問題】 知らない土地へ出かけること。ひらがな2文字で答えてください。（答えは同じですが、正式版では本編知識問題に差し替えます）",
+      "hint1": "移動を伴います。",
+      "hint2": "「た」から始まります。",
+      "answerHash": "dc1e51dff7550ddde4d26186ef4a719a1720dc63c1afea8259897b713276d4c1"
+    }
+  ]
+}
