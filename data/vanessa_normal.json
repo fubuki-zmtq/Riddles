@@ -7,19 +7,19 @@
       "id": "vanessa_normal_01",
       "category": "word",
       "type": "text",
-      "question": "「きつね」の文字を並べ替え、夜空に見えるものを答えてください。",
-      "hint1": "3文字です。",
-      "hint2": "「つ」から始まります。",
-      "answerHash": "a6b62ae03460b4fed56e04029bb980472dfd1ee283472ddb73e502e4e93c01bc"
+      "question": "春の光舞う朝、僕らは目を覚ます。城門が開く音、人々の雑踏、小鳥の囀りが鼓膜を揺らす。祭りは今日だ。両足に履き慣れた靴を纏い、扉を押した。/n/n物語の一歩目を読め。",
+      "hint1": "答えは四文字です。",
+      "hint2": "各文の一歩目を読んでみましょう。",
+      "answerHash": "58989fd19b80fcbf8f9c9bad36b0b7ec9b8ab5ea1a9a5d1b66d9de1a6eff7741"
     },
     {
       "id": "vanessa_normal_02",
       "category": "word",
       "type": "text",
-      "question": "夜空で小さく光るもの。ひらがな2文字で答えてください。",
-      "hint1": "空を見上げます。",
-      "hint2": "「ほ」から始まります。",
-      "answerHash": "740c087eef0f0eedd0446d52c7ee0cead2f7c840dc4f522184bfaed9daedc3d9"
+      "question": "記号が表す言葉は？ \nけ◇びた◇ \n☆く☆い \nし△か△ \n〇ろまどう〇 \n〇△☆◇＝？",
+      "hint1": "同じ記号には同じ文字が入ります。",
+      "hint2": "☆く☆い＝らくらい",
+      "answerHash": "eed1ef245d4ddb2f0dbc1fd1770ab1108172631e7e46a206171039379b4c5343"
     },
     {
       "id": "vanessa_normal_03",
