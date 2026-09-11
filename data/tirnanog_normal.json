@@ -23,11 +23,13 @@
     },
     {
       "id": "tirnanog_normal_03",
-      "category": "riddle",
-      "type": "text",
-      "question": "木がたくさん集まっている場所は？",
-      "hint1": "自然の場所です。",
-      "hint2": "ひらがな2文字です。",
+      "category": "visual",
+      "type": "image",
+      "question": "画像の規則を読み取り、答えをひらがなで入力してください。",
+      "image": "assets/puzzles/tirnanog_normal_03.png",
+      "alt": "三つの記号が左から順に並び、最後の記号を問う問題図",
+      "hint1": "記号の向きに注目してください。",
+      "hint2": "90度ずつ回転しています。mori",
       "answerHash": "4aff9975359df4ca0f8ebbba85d5ca4cbd85453826cb9e00359e97eda8168224"
     },
     {
