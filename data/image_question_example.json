@@ -1,0 +1,11 @@
+{
+  "id": "example_image_01",
+  "category": "visual",
+  "type": "image",
+  "question": "画像の規則を読み取り、答えをひらがなで入力してください。",
+  "image": "assets/puzzles/example_question.webp",
+  "alt": "三つの記号が左から順に並び、最後の記号を問う問題図",
+  "hint1": "記号の向きに注目してください。",
+  "hint2": "90度ずつ回転しています。",
+  "answerHash": "ここにSHA-256のハッシュ値を設定"
+}
