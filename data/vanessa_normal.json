@@ -7,7 +7,7 @@
       "id": "vanessa_normal_01",
       "category": "word",
       "type": "text",
-      "question": "春の光舞う朝、僕らは目を覚ます。城門が開く音、人々の雑踏、小鳥の囀りが鼓膜を揺らす。祭りは今日だ。両足に履き慣れた靴を纏い、扉を押した。/n/n物語の一歩目を読め。",
+      "question": "春の光舞う朝、僕らは目を覚ます。城門が開く音、人々の雑踏、小鳥の囀りが鼓膜を揺らす。祭りは今日だ。両足に履き慣れた靴を纏い、扉を押した。\n\n物語の一歩目を読め。",
       "hint1": "答えは四文字です。",
       "hint2": "各文の一歩目を読んでみましょう。",
       "answerHash": "58989fd19b80fcbf8f9c9bad36b0b7ec9b8ab5ea1a9a5d1b66d9de1a6eff7741"
@@ -25,10 +25,10 @@
       "id": "vanessa_normal_03",
       "category": "riddle",
       "type": "text",
-      "question": "木がたくさん集まっている場所は？",
-      "hint1": "自然の場所です。",
-      "hint2": "ひらがな2文字です。",
-      "answerHash": "4aff9975359df4ca0f8ebbba85d5ca4cbd85453826cb9e00359e97eda8168224"
+      "question": "？に入る言葉は？\n\n椅子→51→笛\n花→40→藁\n杖→11→？",
+      "hint1": "ひらがなにして考えてみましょう。",
+      "hint2": "矢印の間の数字は二桁ではなく、一桁ずつの二つの数字です。",
+      "answerHash": "2d35a5a9753e27d92d5916a0392282a91b24594a1bc62dd2823e8cefbbc66794"
     },
     {
       "id": "vanessa_normal_04",
